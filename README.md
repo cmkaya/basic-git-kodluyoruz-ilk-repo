@@ -28,3 +28,5 @@ Pull Request'ler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degist
 
 ## License
 [MIT](https://opensource.guide/legal)
+
+[patika.dev](https://app.patika.dev/)
