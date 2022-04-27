@@ -6,7 +6,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eigitiminde olusturdumuz 
 
 Oncelikle projeyi clone'layin. (Buraya sizin reponuzdan aldiginiz link gelecek).
 
-> https://github.com/cmkaya/basic-git-kodluyoruz-ilk-repo
+```
+git clone https://github.com/cmkaya/basic-git-kodluyoruz-ilk-repo
+```
 
 ## Usage
 
@@ -14,8 +16,10 @@ Projeyi clone'ladiktan sonra Visual Studio Code programindan aciniz.
 
 Linux icin:
 
-> cd kodluyoruzIlkRepo
+```
+cd kodluyoruzIlkRepo
 code.
+```
 
 ## Contributing
 
