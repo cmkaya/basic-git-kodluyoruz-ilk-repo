@@ -26,5 +26,5 @@ code.
 Pull Request'ler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 
 
-## Licence
+## License
 [MIT](https://opensource.guide/legal)
