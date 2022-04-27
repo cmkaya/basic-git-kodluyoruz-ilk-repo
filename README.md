@@ -1,4 +1,4 @@
-# Kodluyyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eigitiminde olusturdumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
@@ -24,3 +24,7 @@ code.
 ## Contributing
 
 Pull Request'ler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
+
+
+## Licence
+[MIT](https://opensource.guide/legal)
